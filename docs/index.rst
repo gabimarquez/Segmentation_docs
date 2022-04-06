@@ -22,4 +22,5 @@ The structure below and in the sidebar is subject to change as the library grows
   :caption: Table of Content
 
   content/Intro/index
-
+  content/Data Prep/index
+  content/Kmeans/index
